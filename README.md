@@ -18,7 +18,7 @@ streamlit run src/frosty_app.py
 
 ![App Demo](./assets/App_Demo.gif)
 
-## Run in Codespaces
+## Run in Codespaces/workspaces/sfguide-frosty-llm-chatbot-on-streamlit-snowflake/.streamlit
 
 Press the button above to get started with this guide in GitHub Codespaces. This may be especially useful if you are less comfortable with python environment setup (or don't feel like wrestling with it today). Notes and tips on using Codespaces with this guide:
 
